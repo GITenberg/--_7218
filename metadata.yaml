@@ -1,0 +1,24 @@
+_repo: --_7218
+_version: 0.0.1
+alternative_title: San lüe (three tactics of Huang Shigong)
+creator:
+  author:
+    agent_name: Huang, Shigong, 3rd cent. B.C.
+    alias: 黃石公
+    gutenberg_agent_id: '2380'
+    url: http://www.gutenberg.org/2009/agents/2380
+description: ''
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7218'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Military art and science -- China -- Early works to 1800'
+- !lcc 'U'
+- GITenberg
+title: 三略
+url: http://www.gutenberg.org/ebooks/7218
